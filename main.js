@@ -4,7 +4,7 @@ let checkList = [];
 
 function agregarItem(itemAAgregar){
     checkList.push(itemAAgregar);
-    console.log("El ítem " + itemAAgregar + "se ha agregado.");
+    console.log("El ítem " + itemAAgregar + " se ha agregado.");
 }
 
 function borrarItem(itemABorrar){
